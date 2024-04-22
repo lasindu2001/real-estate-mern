@@ -146,7 +146,7 @@ export default function Search() {
                             className='w-5'
                             onChange={handleChange}
                             checked={sidebardata.type === 'sale'} />
-                        <span>Sell</span>
+                        <span>Sale</span>
                     </div>
                     <div className='flex gap-2'>
                         <input 
